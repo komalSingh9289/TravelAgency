@@ -124,5 +124,9 @@ A simple Travel Agency Booking System designed to manage tour packages, handle c
 - Allow package filtering and sorting on the frontend.
 - Add notifications for booking confirmations.
 
-## License
-This project is open source and available under the [MIT License](LICENSE).
+## Screenshots
+![Screenshot (167)](https://github.com/user-attachments/assets/c148de1f-f03c-4b6b-832d-a63ff60a372f)
+
+![Screenshot (168)](https://github.com/user-attachments/assets/7c8d8a68-22ea-4818-8909-3bdec13d3a4b)
+
+![Screenshot (169)](https://github.com/user-attachments/assets/d83dfa87-8683-45d8-be38-a60c7c5eab72)
